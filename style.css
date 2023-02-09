@@ -30,7 +30,7 @@ body {
     padding: 0 1rem;
 }
 .head h1 {
-    flex: 1 0 300px;
+    flex: 1 0 50%;
 }
 .head p {
     color: darkslateblue;
