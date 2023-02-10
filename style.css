@@ -77,3 +77,26 @@ li {
 .roads {
   display: block;
 }
+form {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  align-items: center;
+}
+input {
+  border-radius: 0;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  min-width: 400px;
+  border: 1px solid darkslateblue;
+  color: darkslateblue;
+}
+button {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: green;
+  color: white;
+  cursor: pointer;
+  border: none;
+}
